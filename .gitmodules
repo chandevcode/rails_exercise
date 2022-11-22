@@ -1,0 +1,6 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/chanlevelup/rails_exercise.git
+[submodule "twitter_clone"]
+	path = twitter_clone
+	url = https://github.com/chanlevelup/rails_exercise.git
